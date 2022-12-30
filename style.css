@@ -23,7 +23,7 @@ h1{
     border-radius: 1rem;
     display: block;
     margin: auto;
-    background-color: azure;
+    background-color: rgb(28, 41, 41);
 }
 #outputdiv{
     border: 0.1rem solid rgb(62, 13, 13);
@@ -33,13 +33,14 @@ h1{
     padding: 1rem 1rem;
     margin: auto;
     border-radius: 1rem;
-    background-color: azure;
+    color: wheat;
+    background-color: rgb(28, 41, 41);
     font-style:italic ;
 }
 #btn-translate{
     margin-left: 18.5rem;
     padding: 0.5rem 1rem 0.5rem 1rem;
-    color: white;
+    color:rgb(28, 41, 41);
     text-decoration: blue;
     background-color: #f2c94c;
     font-size: larger ;
